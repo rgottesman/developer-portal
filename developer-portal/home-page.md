@@ -1,4 +1,4 @@
-# Home page
+# Home page - A message from Rachel
 
 Usually, the home page is something fancy.
 
