@@ -34,9 +34,7 @@ quickly perform the following steps:
 > **Note**
 >
 > For more information about the different API calls, take a look at our
-> [reference
-> guide](/document/preview/25336#UUID98c720077150bae523489d0a67826391).API
-> reference
+> [reference guide]().
 
 ### Authenticate
 
@@ -151,7 +149,7 @@ Add users to your organizations with the
 
 When creating a user, you also assign their role: restricted, user,
 administrator, or supervisor. For details about each role\'s
-credentials, see [Tokens & credentials](#tokens-credentials).
+credentials, see [Tokens & credentials](tokens-and-credentials.md).
 
     curl --request POST https://api-prod.surfsight.net/v2/organizations/{orgId}/users
     --header 'Content-Type: application/json'
