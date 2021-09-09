@@ -17,4 +17,4 @@ The API call includes the following:
   URL | The Surfsight API URL | https://api-prod.surfsight.net | request
   API version | The version of the Surfsight API you are calling | v2 | request
   API endpoint | The API endpoint you want to reach | /devices/{imei}/events | request
-  Authorization | The [authentication token](#N1622535612653) in the Authorization header of your call | 1234567 | header
+  Authorization | The [authentication token](basic-authentication.md) in the Authorization header of your call | 1234567 | header
