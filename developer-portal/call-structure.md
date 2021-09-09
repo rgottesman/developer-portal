@@ -11,23 +11,10 @@ v2 being the default API version.
 
 The API call includes the following:
 
-  ---------------------------------------------------------------------------------------
-  Component       Description                 Example                          Location
-  --------------- --------------------------- -------------------------------- ----------
-  HTTP method     The action you want to      GET                              request
-                  perform                                                      
-
-  URL             The Surfsight API URL       https://api-prod.surfsight.net   request
-
-  API version     The version of the          v2                               request
-                  Surfsight API you are                                        
-                  calling                                                      
-
-  API endpoint    The API endpoint you want   /devices/{imei}/events           request
-                  to reach                                                     
-
-  Authorization   The [authentication         1234567                          header
-                  token](#N1622535612653) in                                   
-                  the Authorization header of                                  
-                  your call                                                    
-  ---------------------------------------------------------------------------------------
+  Component      | Description               | Example                        | Location
+  ---------------|---------------------------|--------------------------------|----------
+  HTTP method | The action you want to perform | GET | request
+  URL | The Surfsight API URL | https://api-prod.surfsight.net | request
+  API version | The version of the Surfsight API you are calling | v2 | request
+  API endpoint | The API endpoint you want to reach | /devices/{imei}/events | request
+  Authorization | The [authentication token](#N1622535612653) in the Authorization header of your call | 1234567 | header
