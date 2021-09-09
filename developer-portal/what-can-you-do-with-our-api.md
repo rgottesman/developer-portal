@@ -25,5 +25,4 @@ making calls using the following endpoints:
 | Webhooks | Mange your webhooks subscriptions. | /organizations/{orgId}/webhooks |
 
 These endpoints are detailed in the
-[/document/preview/25336#UUID98c720077150bae523489d0a67826391](/document/preview/25336#UUID98c720077150bae523489d0a67826391).API
-reference
+[API reference]().
