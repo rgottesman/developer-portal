@@ -46,6 +46,16 @@ training:
     expanded: false
     pages:
       - page: openapi/surfsight.page.yaml/*
+  - group: Developer portal
+    expanded: true
+    pages:
+      - group: How the Surfsight API works
+        expanded: true
+        pages:
+          - label: Surfsight concepts
+            page: developer-portal/surfsight-concepts
+          - label: Rest APIs
+            page: developer-portal/rest-apis
   - group: Admin
     expanded: true
     pages:
