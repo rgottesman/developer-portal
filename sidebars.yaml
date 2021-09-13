@@ -59,7 +59,7 @@ training:
                             expanded: true
                             pages:
                               - label: Upgrading
-                                # page: developer-portal/upgrade.md
+                                # page: developer-portal/training/upgrade.md
 alternative:
-  - page: developer-portal/sidebar-alternative.md
+  - page: developer-portal/training/sidebar-alternative.md
     label: Alternative sidebar example
