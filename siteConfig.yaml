@@ -1,7 +1,7 @@
 meta:
   title: Developer Portal
   description: The Surfsight API developer portal.
-  siteUrl: https://portal-demo.redoc.ly
+  siteUrl: https://surfsight.redoc.ly/
   keywords: surfsight developer portal, api portal starter, api reference docs
 linkChecker:
   severity: warning
