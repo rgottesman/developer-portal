@@ -27,9 +27,9 @@ nav:
   - label: Developer Portal
     page: developer-portal/surfsight-concepts.md
 
-  - label: External docs
-    icon: ./images/redocly-icon-white.png
-    href: https://redoc.ly/docs/developer-portal/introduction/
+  - label: Knowledge base
+    icon: ./images/surfsight-icon-circle.png
+    href: https://kb.surfsight.net/hc/en-us
 
   - search: true
 
