@@ -1,8 +1,8 @@
 meta:
-  title: Redocly Training
-  description: The best API documentation generator ever.
+  title: Developer Portal
+  description: The Surfsight API developer portal.
   siteUrl: https://portal-demo.redoc.ly
-  keywords: redocly developer portal, api portal starter, api reference docs
+  keywords: surfsight developer portal, api portal starter, api reference docs
 linkChecker:
   severity: warning
   options: 
@@ -24,7 +24,7 @@ stylesheets:
 #  - ./static/intercom.js
 nav:
 
-  - label: Training exercises
+  - label: Developer Portal
     page: developer-portal/index.md
 
   - label: External docs
@@ -34,7 +34,7 @@ nav:
   - search: true
 
 footer:
-  copyrightText: Copyright © Redocly 2019-2021. All right reserved.
+  copyrightText: Copyright © Lytx 2021. All right reserved.
   columns:
     - group: Legal
       items:
