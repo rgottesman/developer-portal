@@ -56,6 +56,33 @@ training:
             page: developer-portal/surfsight-concepts.md
           - label: Rest APIs
             page: developer-portal/rest-apis.md
+          - label: Webhooks
+            page: developer-portal/webhooks.md
+          - label: Tokens & credentials
+            page: developer-portal/tokens-and-credentials.md
+      - group: Integrating by using our APIs
+        expanded: true
+        pages:
+          - label: What can you do with our APIs?
+            page: developer-portal/what-can-you-do-with-our-apis.md
+          - label: Call structure
+            page: developer-portal/call-structure.md
+      - group: Authentication
+        expanded: true
+        pages:
+          - label: Basic authentication
+            page: developer-portal/basic-authentication.md
+          - label: Organization authentication
+            page: developer-portal/organization-authentication.md
+      - group: Guides
+        expanded: true
+        pages:
+          - label: How partners add a new customer
+            page: developer-portal/how-partners-add-a-new-customer.md
+      - label: API changelog
+        page: developer-portal/api-changelog.md
+      - label: Terminology
+        page: developer-portal/terminology.md
   - group: Admin
     expanded: true
     pages:
