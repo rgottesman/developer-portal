@@ -64,7 +64,7 @@ training:
         expanded: true
         pages:
           - label: What can you do with our APIs?
-            page: developer-portal/what-can-you-do-with-our-apis.md
+            page: developer-portal/what-can-you-do-with-our-api.md
           - label: Call structure
             page: developer-portal/call-structure.md
       - group: Authentication
