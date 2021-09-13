@@ -25,7 +25,7 @@ stylesheets:
 nav:
 
   - label: Developer Portal
-    page: developer-portal/index.md
+    page: developer-portal/surfsight-concepts.md
 
   - label: External docs
     icon: ./images/redocly-icon-white.png
