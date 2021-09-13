@@ -29,6 +29,8 @@ training:
     pages:
       - label: How partners add a new customer
         page: developer-portal/how-partners-add-a-new-customer.md
+      - label: Receive a list of events from a dashcam
+        href: https://plnkr.co/edit/QShd7PbkJzX4ZIA0?open=lib%2Fscript.js&preview
   - label: API changelog
     page: developer-portal/api-changelog.md
   - label: Terminology
