@@ -79,10 +79,6 @@ training:
         pages:
           - label: How partners add a new customer
             page: developer-portal/how-partners-add-a-new-customer.md
-      - label: API changelog
-        page: developer-portal/api-changelog.md
-      - label: Terminology
-        page: developer-portal/terminology.md
   - group: Admin
     expanded: true
     pages:
