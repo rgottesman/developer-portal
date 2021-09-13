@@ -53,9 +53,9 @@ training:
         expanded: true
         pages:
           - label: Surfsight concepts
-            page: developer-portal/surfsight-concepts
+            page: developer-portal/surfsight-concepts.md
           - label: Rest APIs
-            page: developer-portal/rest-apis
+            page: developer-portal/rest-apis.md
   - group: Admin
     expanded: true
     pages:
