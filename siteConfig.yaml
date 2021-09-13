@@ -7,7 +7,7 @@ linkChecker:
   severity: warning
   options: 
     CheckExternal: false
-logo: ./images/logo.png
+logo: ./images/surfsight-icon.png
 enableToc: true
 oasDefinitions:
   petstore: ./openapi/petstore.yaml
