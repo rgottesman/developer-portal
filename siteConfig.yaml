@@ -28,7 +28,7 @@ nav:
     page: developer-portal/surfsight-concepts.md
 
   - label: Knowledge base
-    icon: ./images/surfsight-icon-circle.png
+    icon: ./images/surfsight-icon-circle-white.png
     href: https://kb.surfsight.net/hc/en-us
 
   - search: true
