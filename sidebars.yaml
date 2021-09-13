@@ -1,8 +1,4 @@
 training:
-  - group: Surfsight reference
-    expanded: false
-    pages:
-      - page: openapi/surfsight.page.yaml/*
   - group: How the Surfsight API works
     expanded: true
     pages:
@@ -37,29 +33,10 @@ training:
     page: developer-portal/api-changelog.md
   - label: Terminology
     page: developer-portal/terminology.md
-  - group: Admin
-    expanded: true
+  - group: Surfsight reference
+    expanded: false
     pages:
-      - group: Routine
-        expanded: true
-        pages:
-          - group: Rock
-            expanded: true
-            pages:
-              - group: Paper
-                expanded: true
-                pages:
-                  - group: Scissors
-                    expanded: true
-                    pages:
-                      - group: 1-2-3
-                        expanded: true
-                        pages:
-                          - group: Go
-                            expanded: true
-                            pages:
-                              - label: Upgrading
-                                # page: developer-portal/upgrade.md
+      - page: openapi/surfsight.page.yaml/*
 
 alternative:
   - page: developer-portal/sidebar-alternative.md
