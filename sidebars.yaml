@@ -60,6 +60,3 @@ training:
                             pages:
                               - label: Upgrading
                                 # page: developer-portal/training/upgrade.md
-alternative:
-  - page: developer-portal/training/sidebar-alternative.md
-    label: Alternative sidebar example
